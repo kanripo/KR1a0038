@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易玩辭
-#+DATE: 2015-09-23 09:34:28
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 21:54:48.756080
+#+PROPERTY: ID KR1a0038
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1a0038_WYG_009-1a>¶
 欽定四庫全書¶
 　周易玩辭卷九¶
@@ -524,4 +526,3 @@
 而不食五既正又中是以清且食也¶
 　¶
 　周易玩辭卷九¶
-

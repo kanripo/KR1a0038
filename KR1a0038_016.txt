@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易玩辭
-#+DATE: 2015-09-23 09:34:28
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 21:54:48.885830
+#+PROPERTY: ID KR1a0038
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR1a0038_WYG_016-1a>¶
 欽定四庫全書¶
 　周易玩辭卷十六¶
@@ -416,4 +418,3 @@
 　¶
 　¶
 　周易玩辭卷十六¶
-
